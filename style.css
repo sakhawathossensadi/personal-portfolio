@@ -23,7 +23,7 @@ body
 {
     color: #363958;
     font-family: 'Bebas Neue', cursive;
-    margin-left: 45px;
+    margin-left: 35px;
 }
 .header-sizeh1
 {
@@ -37,7 +37,7 @@ body
 {
     color: black;
     font-family: 'Roboto', sans-serif;
-    margin-left: 45px;
+    margin-left: 35px;
     line-height: 1.6;
 }
 .link-button
@@ -48,7 +48,7 @@ body
     border-radius: 5px;
     color: white;
     font-weight: 700;
-    margin-left: 45px;
+    margin-left: 35px;
 }
 section
 {
